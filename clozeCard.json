@@ -1,0 +1,14 @@
+[
+	{
+		"front": "What is my name",
+		"back": "Joe"
+	},
+	{
+		"partial": "...",
+		"answer": ""
+	},
+	{
+		"partial": "My name is ...",
+		"answer": "Joe"
+	}
+]
